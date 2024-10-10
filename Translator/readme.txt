@@ -1,0 +1,1 @@
+translates english to spanish and vice versa
